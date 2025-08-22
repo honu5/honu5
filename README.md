@@ -48,7 +48,6 @@
 | **Broker Chat System** | Buyer–seller real-time chat | Node, Express, Mongo, Socket.IO | [Demo](<demo-link>) • [Repo](<repo-link>) |
 | **Quiz App** | Timed quizzes, leaderboards | React, Node, PostgreSQL | [Demo](<demo-link>) • [Repo](<repo-link>) |
 
-> Tip: Pin these repos on your profile (Go to each repo → “Pin to your profile”).
 
 ---
 
