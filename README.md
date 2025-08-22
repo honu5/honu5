@@ -14,12 +14,11 @@
 ---
 
 ### 🚀 About me
-- 🔭 Currently building: **<your current project>** (pair project)
-- 🌱 Learning: **Backend architecture, databases, deployment**
+- 🌱 Learning: **Django, databases, deployment**
 - 🧰 Interested in: **Real-time apps, security, and clean API design**
 - 🤝 Open to: **Internships / collabs / open-source contributions**
 - 🌍 Based in: **Ethiopia**
-- ✉️ Reach me: **<your-email>**
+- ✉️ Reach me: **liranso392@gmail.com**
 
 ---
 
@@ -56,15 +55,15 @@
 ### 📊 GitHub at a glance
 <!-- These are optional third-party badges. If you prefer, remove this section. -->
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=<your-username>&show_icons=true&hide_border=true" height="140" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=<your-username>&hide_border=true" height="140" />
+  <img src="https://github-readme-stats.vercel.app/api?username=honu5&show_icons=true&hide_border=true" height="140" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=honu5&hide_border=true" height="140" />
 </p>
 
 ---
 
 ### 🗺️ What I’m focusing on next
-- Designing scalable APIs (pagination, caching, rate-limiting)
-- Database optimization (indexes, migrations, Prisma/TypeORM)
+-Problem solving
+- I integration with web Apps
 - CI/CD, tests, and infra as code
 
 ---
