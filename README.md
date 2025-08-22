@@ -1,11 +1,11 @@
-<h1 align="center">Hi, I'm <YOUR NAME> 👋</h1>
+<h1 align="center">Hi, I'm Honelign Yohannes 👋</h1>
 <p align="center">
-  Full-stack Developer • MERN • APIs • Databases
+  Full-stack Developer • Competitive Programmer• Believer • 
 </p>
 
 <!-- Quick badges -->
 <p align="center">
-  <a href="mailto:<your-email>"><img alt="Email" src="https://img.shields.io/badge/Email-Contact-informational?logo=gmail"></a>
+  <a href="mailto:liranso392@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Contact-informational?logo=gmail"></a>
   <a href="https://www.linkedin.com/in/<your-linkedin>"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin"></a>
   <a href="https://<your-portfolio-domain>"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Visit-brightgreen?logo=vercel"></a>
   <a href="https://github.com/<your-username>?tab=followers"><img alt="GitHub followers" src="https://img.shields.io/github/followers/<your-username>?style=social"></a>
