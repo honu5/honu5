@@ -5,7 +5,7 @@
 
 <!-- Quick badges -->
 <p align="center">
-  <a href="mailto:liranso392@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Contact-informational?logo=gmail"></a>
+  <a href="mailto:<liranso392@gmail.com>"><img alt="Email" src="https://img.shields.io/badge/Email-Contact-informational?logo=gmail"></a>
   <a href="https://www.linkedin.com/in/<your-linkedin>"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin"></a>
   <a href="https://<your-portfolio-domain>"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Visit-brightgreen?logo=vercel"></a>
   <a href="https://github.com/<your-username>?tab=followers"><img alt="GitHub followers" src="https://img.shields.io/github/followers/<your-username>?style=social"></a>
