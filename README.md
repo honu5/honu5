@@ -6,15 +6,15 @@
 <!-- Quick badges -->
 <p align="center">
   <a href="mailto:<liranso392@gmail.com>"><img alt="Email" src="https://img.shields.io/badge/Email-Contact-informational?logo=gmail"></a>
-  <a href="https://www.linkedin.com/in/<your-linkedin>"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin"></a>
-  <a href="https://<your-portfolio-domain>"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Visit-brightgreen?logo=vercel"></a>
-  <a href="https://github.com/<your-username>?tab=followers"><img alt="GitHub followers" src="https://img.shields.io/github/followers/<your-username>?style=social"></a>
+  <a href="[https://www.linkedin.com/in/<your-linkedin>](https://www.linkedin.com/in/honelign-yohannes-054098387)"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin"></a>
+  <a href=["https://<your-portfolio-domain>](https://portfolio-5blt.onrender.com/)"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Visit-brightgreen?logo=vercel"></a>
+  <a href="https://github.com/honu5><img alt="GitHub followers" src="https://img.shields.io/github/followers/<your-username>?style=social"></a>
 </p>
 
 ---
 
 ### 🚀 About me
-- 🌱 Learning: **Django, databases, deployment**
+- 🌱 Learning: **RAG,DJANGO,DATA Scraping**
 - 🧰 Interested in: **Real-time apps, security, and clean API design**
 - 🤝 Open to: **Internships / collabs / open-source contributions**
 - 🌍 Based in: **Ethiopia**
@@ -62,7 +62,7 @@
 
 ### 🗺️ What I’m focusing on next
 -Problem solving
-- I integration with web Apps
+- AI integration with web Apps
 - CI/CD, tests, and infra as code
 
 ---
