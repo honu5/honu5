@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Honelign Yohannes 👋</h1>
 <p align="center">
-  Full-stack Developer • Competitive Programmer• Believer • 
+  Full-stack Developer • AI Engineer  •  Competitive Programmer•Believer
 </p>
 
 <!-- Quick badges -->
