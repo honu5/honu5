@@ -7,7 +7,7 @@
 <p align="center">
   <a href="mailto:<liranso392@gmail.com>"><img alt="Email" src="https://img.shields.io/badge/Email-Contact-informational?logo=gmail"></a>
   <a href="[https://www.linkedin.com/in/<your-linkedin>](https://www.linkedin.com/in/honelign-yohannes-054098387)"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin"></a>
-  <a href="https://<your-portfolio-domain>](https://portfolio-5blt.onrender.com/)"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Visit-brightgreen?logo=vercel"></a>
+  <a href="[https://<your-portfolio-domain>](https://portfolio-5blt.onrender.com/)"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Visit-brightgreen?logo=vercel"></a>
   <a href="https://github.com/honu5><img alt="GitHub followers" src="https://img.shields.io/github/followers/<your-username>?style=social"></a>
 </p>
 
@@ -33,17 +33,6 @@ I am a Full-Stack Software Engineer with a strong foundation in building scalabl
   <img src="https://img.shields.io/badge/Docker-Containers-2496ED?logo=docker" />
   <img src="https://img.shields.io/badge/Render-Deploy-46e3b7?logo=render" />
 </p>
-
----
-
-### 🌟 Featured Projects
-<!-- Replace rows with your best 3–6 projects -->
-| Project | What it does| Demo / Repo |
-|---|---|---|---|
-| **Khilot ** | A full-stack job boarding app developed with React and Express.js.It is the winner Project of Zulu challenge#5.| [Repo](https://github.com/honu5/Job_Board_App>)|
-| **AfriLink** | AfriLink is a Pan-African digital platform developed with React+Express.js and designed to keep African resources, trade, and investment within Africa. | [Repo](https://github.com/honu5/Meera) |
-| **Ketero** | Spring Boot Visitor Management System developed to address appointment inefficiencies across multiple offices.I developed this project during my intern of INSA.  | • [Repo](https://github.com/honu5/Visitor_Managment_System) |
-
 
 ---
 
