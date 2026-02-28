@@ -38,10 +38,10 @@ I am a Full-Stack Software Engineer with a strong foundation in building scalabl
 
 ### 🌟 Featured Projects
 <!-- Replace rows with your best 3–6 projects -->
-| Project | What it does | Tech | Demo / Repo |
+| Project | What it does| Demo / Repo |
 |---|---|---|---|
-| **Khilot ** | a full-stack job boarding app developed with React and Express.js.It is the winner Project of Zulu challenge#5.| [Repo](<[https://github.com/honu5/Job_Board_App>)]|
-| **AfriLink** | AfriLink is a Pan-African digital platform developed with React+Express.js and designed to keep African resources, trade, and investment within Africa. | [Repo]((https://github.com/honu5/Meera)) |
+| **Khilot ** | A full-stack job boarding app developed with React and Express.js.It is the winner Project of Zulu challenge#5.| [Repo](https://github.com/honu5/Job_Board_App>)|
+| **AfriLink** | AfriLink is a Pan-African digital platform developed with React+Express.js and designed to keep African resources, trade, and investment within Africa. | [Repo](https://github.com/honu5/Meera) |
 | **Ketero** | Spring Boot Visitor Management System developed to address appointment inefficiencies across multiple offices.I developed this project during my intern of INSA.  | • [Repo](https://github.com/honu5/Visitor_Managment_System) |
 
 
