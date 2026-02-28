@@ -7,18 +7,14 @@
 <p align="center">
   <a href="mailto:<liranso392@gmail.com>"><img alt="Email" src="https://img.shields.io/badge/Email-Contact-informational?logo=gmail"></a>
   <a href="[https://www.linkedin.com/in/<your-linkedin>](https://www.linkedin.com/in/honelign-yohannes-054098387)"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin"></a>
-  <a href=["https://<your-portfolio-domain>](https://portfolio-5blt.onrender.com/)"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Visit-brightgreen?logo=vercel"></a>
+  <a href="https://<your-portfolio-domain>](https://portfolio-5blt.onrender.com/)"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Visit-brightgreen?logo=vercel"></a>
   <a href="https://github.com/honu5><img alt="GitHub followers" src="https://img.shields.io/github/followers/<your-username>?style=social"></a>
 </p>
 
 ---
 
 ### 🚀 About me
-- 🌱 Learning: **RAG,DJANGO,DATA Scraping**
-- 🧰 Interested in: **Real-time apps, security, and clean API design**
-- 🤝 Open to: **Internships / collabs / open-source contributions**
-- 🌍 Based in: **Ethiopia**
-- ✉️ Reach me: **liranso392@gmail.com**
+I am a Full-Stack Software Engineer with a strong foundation in building scalable, AI-enabled web and Mobile applications. I have developed high-quality full-stack systems as personal projects, for clients, and for companies , including National wide big companies like INSA. My expertise spans AI integration using LLMs, RAG systems, and data scripting using Python and JavaScript Libraries. In addition to software development, I am an active competitive programmer, having solved 400+ problems across LeetCode , Codeforces , and HackerRank. I am currently advancing my expertise through A2SV’s competitive programming and software engineering training program. I am a dedicated and collaborative engineer who values clean architecture, maintainable code, and strong communication. I take ownership of projects, I take client's goal as mine and work with dedication till it is completed , and consistently strive to deliver high-impact solutions.
 
 ---
 
@@ -44,9 +40,9 @@
 <!-- Replace rows with your best 3–6 projects -->
 | Project | What it does | Tech | Demo / Repo |
 |---|---|---|---|
-| **Bus Booking App** | Search, book, pay, live tracking | MERN, JWT, Stripe, Socket.IO | [Demo](<demo-link>) • [Repo](<repo-link>) |
-| **Broker Chat System** | Buyer–seller real-time chat | Node, Express, Mongo, Socket.IO | [Demo](<demo-link>) • [Repo](<repo-link>) |
-| **Quiz App** | Timed quizzes, leaderboards | React, Node, PostgreSQL | [Demo](<demo-link>) • [Repo](<repo-link>) |
+| **Khilot ** | a full-stack job boarding app developed with React and Express.js.It is the winner Project of Zulu challenge#5.| [Repo](<[https://github.com/honu5/Job_Board_App>)]|
+| **AfriLink** | AfriLink is a Pan-African digital platform developed with React+Express.js and designed to keep African resources, trade, and investment within Africa. | [Repo]((https://github.com/honu5/Meera)) |
+| **Ketero** | Spring Boot Visitor Management System developed to address appointment inefficiencies across multiple offices.I developed this project during my intern of INSA.  | • [Repo](https://github.com/honu5/Visitor_Managment_System) |
 
 
 ---
@@ -61,9 +57,9 @@
 ---
 
 ### 🗺️ What I’m focusing on next
--Problem solving
-- AI integration with web Apps
-- CI/CD, tests, and infra as code
+-LLM and AI Engineering 
+- Mobile App Development
+- Data Scripting
 
 ---
 
@@ -73,4 +69,3 @@ If you have an idea that helps the public (ed-tech, transport, safety, health), 
 
 ---
 
-<sub>⚡ Fun fact: I like turning messy requirements into clean system designs.</sub>
