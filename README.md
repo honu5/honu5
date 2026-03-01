@@ -44,17 +44,3 @@ I am a Full-Stack Software Engineer with a strong foundation in building scalabl
 </p>
 
 ---
-
-### 🗺️ What I’m focusing on next
--LLM and AI Engineering 
-- Mobile App Development
-- Data Scripting
-
----
-
-### 🤝 Let’s collaborate
-If you have an idea that helps the public (ed-tech, transport, safety, health), I’d love to help build it.  
-**DM me on LinkedIn** or **open an issue** in any relevant repo.
-
----
-
