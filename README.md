@@ -14,7 +14,13 @@
 ---
 
 ### 🚀 About me
-I am a Full-Stack Software Engineer with a strong foundation in building scalable, AI-enabled web and Mobile applications. I have developed high-quality full-stack systems as personal projects, for clients, and for companies , including National wide big companies like INSA. My expertise spans AI integration using LLMs, RAG systems, and data scripting using Python and JavaScript Libraries. In addition to software development, I am an active competitive programmer, having solved 400+ problems across LeetCode , Codeforces , and HackerRank. I am currently advancing my expertise through A2SV’s competitive programming and software engineering training program. I am a dedicated and collaborative engineer who values clean architecture, maintainable code, and strong communication. I take ownership of projects, I take client's goal as mine and work with dedication till it is completed , and consistently strive to deliver high-impact solutions.
+I am a Fullstack Developer , Al Specialist , LLM Trainer and Data Scientist with over 3 years of experience developing and deploying machine learning 
+models and applications, real-time analytics solutions, and generative Al applications. Proficient in Python, Django, FastAPI , Javascript, Java , 
+SQL, Spark, and other Development and ML languages and frameworks . I have developed high-quality full-stack systems as personal projects, 
+for clients, and for companies , including National wide big companies like INSA. In addition to software development, I am an active 
+competitive programmer, having solved 550+ problems across LeetCode , Codeforces , and HackerRank I am a dedicated and collaborative 
+engineer who values clean architecture, maintainable code, and strong communication. I take ownership of projects, I take client's goal as mine 
+and work with dedication till it is completed , and consistently strive to deliver high-impact solutions I take ownership of projects, I take client's goal as mine and work with dedication till it is completed , and consistently strive to deliver high-impact solutions.
 
 ---
 
